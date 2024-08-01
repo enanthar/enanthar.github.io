@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enanthar.github.io/sitemap.html.gz
+Sitemap: https://enanthar.github.io/app/sitemap.html.gz
+Sitemap: https://enanthar.github.io/assets/sitemap.html.gz
+Sitemap: https://enanthar.github.io/css/sitemap.html.gz
+Sitemap: https://enanthar.github.io/includes/sitemap.html.gz
+Sitemap: https://enanthar.github.io/item/sitemap.html.gz
+Sitemap: https://enanthar.github.io/src/sitemap.html.gz
